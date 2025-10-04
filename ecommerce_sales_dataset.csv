@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Product,Category,Quantity,Price,Order_Date
+1000.0,,Office Chair,Furniture,1.0,120.0,
+1001.0,C015,Table,Furniture,1.0,250.0,2025-07-24
+1002.0,C021,Blender,Home,2.0,90.0,2025-06-06
+1003.0,C075,Table,Furniture,1.0,250.0,2025-08-06
+1004.0,C100,Table,Furniture,4.0,250.0,2025-06-20
+1005.0,C131,Smartphone,Electronics,1.0,600.0,2025-07-12
+1006.0,,Table,Furniture,4.0,250.0,2025-02-04
+1007.0,C158,Smartphone,,,600.0,2025-08-31
+1008.0,C192,Desk Lamp,Furniture,1.0,30.0,2024-12-22
+1009.0,C058,Smartphone,Electronics,,600.0,2025-02-01
+1010.0,C089,Laptop,Electronics,3.0,800.0,2025-08-05
+1011.0,C059,Bookshelf,,4.0,150.0,2025-05-15
+1012.0,,Coffee Maker,,4.0,,2025-06-07
+1013.0,,Office Chair,Furniture,4.0,120.0,2024-11-02
+1014.0,C131,Desk Lamp,Furniture,3.0,30.0,2025-05-31
+,C135,,Furniture,1.0,30.0,2025-03-31
+1016.0,C167,Headphones,Electronics,4.0,50.0,2025-08-21
+1017.0,C089,Headphones,Electronics,2.0,50.0,2025-03-26
+1018.0,C009,,,1.0,150.0,2025-07-05
+1019.0,C130,Office Chair,Furniture,4.0,120.0,
+1020.0,,Blender,Home,4.0,90.0,2025-04-27
+,C008,Coffee Maker,,,70.0,2025-02-02
+1022.0,C081,,Furniture,2.0,120.0,
+1023.0,C104,Office Chair,Furniture,2.0,120.0,2024-12-19
+,C134,Smartphone,Electronics,2.0,600.0,2025-09-15
+1025.0,C004,Smartphone,Electronics,1.0,,2025-09-30
+1026.0,,Headphones,Electronics,2.0,50.0,2025-02-10
+1027.0,C044,Headphones,Electronics,2.0,,2024-10-18
+1028.0,C190,Office Chair,Furniture,2.0,120.0,2025-01-17
+1029.0,C095,Table,,2.0,250.0,
+1030.0,C190,Table,Furniture,,250.0,
+1031.0,C082,Desk Lamp,Furniture,,30.0,2025-09-12
+1032.0,C154,Smartwatch,Electronics,4.0,200.0,2025-06-13
+1033.0,C188,Smartwatch,Electronics,1.0,200.0,2025-03-05
+1034.0,C015,Laptop,,1.0,,2024-10-05
+1035.0,C071,Smartwatch,Electronics,4.0,200.0,2025-01-02
+1036.0,C129,Table,Furniture,4.0,250.0,2025-02-15
+1037.0,C063,Coffee Maker,,1.0,70.0,2024-11-19
+1038.0,C136,Coffee Maker,Home,3.0,70.0,2025-03-14
+1039.0,C033,,Furniture,2.0,30.0,2025-04-28
+,,,Home,,90.0,2025-09-17
+1041.0,C072,Headphones,Electronics,1.0,50.0,2025-02-18
+1042.0,C048,Blender,Home,,90.0,2024-10-20
+1043.0,,Table,Furniture,1.0,250.0,2025-06-14
+1044.0,C099,Table,,2.0,250.0,2025-09-11
+1045.0,C035,Laptop,Electronics,3.0,800.0,2025-07-15
+1046.0,C101,Coffee Maker,Home,1.0,,
+1047.0,C005,Bookshelf,Furniture,,150.0,2025-04-27
+1048.0,C142,Blender,Home,,,2024-11-06
+1049.0,C137,Bookshelf,,2.0,150.0,2025-05-13
+1050.0,C124,Coffee Maker,Home,3.0,70.0,2025-06-06
+1051.0,C096,Blender,Home,1.0,90.0,2025-01-04
+,C052,Office Chair,Furniture,,120.0,2024-12-06
+1053.0,C151,Blender,Home,1.0,90.0,2025-03-21
+,C143,Office Chair,Furniture,1.0,120.0,2025-06-07
+1055.0,C160,Blender,Home,3.0,90.0,2025-05-13
+1056.0,C086,Headphones,,,50.0,
+1057.0,C045,Smartwatch,Electronics,1.0,,2025-03-20
+1058.0,,Office Chair,Furniture,,120.0,2025-04-19
+1059.0,C190,Bookshelf,Furniture,3.0,,2025-03-05
+1060.0,C092,Smartwatch,Electronics,3.0,200.0,2024-11-16
+1061.0,C190,Laptop,,1.0,800.0,2025-07-03
+1062.0,C121,,,4.0,200.0,2025-03-15
+1063.0,C003,Blender,Home,2.0,90.0,
+1064.0,C200,Smartwatch,Electronics,2.0,,2025-04-12
+1065.0,,,,,800.0,2025-02-22
+1066.0,C172,Table,Furniture,3.0,250.0,2025-05-12
+1067.0,,,Electronics,4.0,600.0,
+1068.0,C096,Table,Furniture,1.0,,2024-10-15
+1069.0,C180,Laptop,Electronics,,800.0,2025-02-16
+1070.0,C186,Office Chair,Furniture,4.0,120.0,2025-05-23
+,C039,Headphones,Electronics,3.0,50.0,2025-06-17
+,C113,Desk Lamp,Furniture,,30.0,2024-12-07
+1073.0,C184,Laptop,Electronics,3.0,800.0,
+,,,,2.0,,
+,C054,Blender,Home,1.0,90.0,
+1076.0,C129,Coffee Maker,Home,,70.0,2025-09-08
+1077.0,C130,,Furniture,4.0,30.0,2024-10-29
+1078.0,C160,Smartphone,Electronics,4.0,,2025-01-07
+1079.0,C068,Blender,Home,3.0,90.0,2024-11-25
+,C184,Laptop,Electronics,3.0,800.0,2025-03-18
+1081.0,C038,Table,Furniture,,,2024-12-18
+1082.0,C116,Headphones,Electronics,,,2025-02-09
+,C139,Laptop,Electronics,1.0,800.0,2025-08-02
+1084.0,C124,Smartphone,Electronics,4.0,600.0,2025-03-27
+1085.0,,Coffee Maker,Home,4.0,70.0,2025-10-02
+,C187,,Furniture,3.0,120.0,2025-06-27
+1087.0,C090,,Home,3.0,70.0,2025-02-22
+1088.0,C147,Office Chair,Furniture,4.0,,2025-08-09
+1089.0,C199,Office Chair,Furniture,1.0,120.0,2024-11-07
+1090.0,,Table,Furniture,4.0,250.0,2024-12-15
+1091.0,C039,Headphones,Electronics,4.0,50.0,2024-11-12
+,C129,Smartwatch,Electronics,1.0,200.0,2024-10-11
+1093.0,C178,Blender,Home,3.0,90.0,2025-09-17
+1094.0,C042,Coffee Maker,Home,3.0,70.0,2025-10-01
+1095.0,C144,Bookshelf,,4.0,150.0,2024-10-05
+1096.0,C060,Laptop,Electronics,2.0,800.0,
+1097.0,C129,Desk Lamp,Furniture,1.0,,2025-05-18
+1098.0,C160,Blender,Home,1.0,90.0,
+1099.0,C099,Coffee Maker,Home,4.0,70.0,2025-03-15
+1100.0,C131,Office Chair,Furniture,,120.0,2025-06-20
+1101.0,C054,,Furniture,1.0,250.0,2024-12-19
+,C152,Office Chair,Furniture,3.0,120.0,2025-02-14
+,C113,Table,Furniture,,,2024-12-03
+,C166,Table,Furniture,4.0,250.0,2025-03-27
+1105.0,C112,Smartwatch,Electronics,3.0,200.0,2024-10-31
+1106.0,,Headphones,Electronics,4.0,50.0,2025-08-19
+1107.0,C110,Headphones,Electronics,2.0,50.0,2025-02-02
+1108.0,,,Home,,,2025-07-29
+1109.0,C189,Smartwatch,Electronics,4.0,200.0,2025-08-17
+1110.0,,Office Chair,,1.0,120.0,2025-02-20
+1111.0,C142,,Furniture,4.0,30.0,2025-08-07
+,C148,Table,,4.0,250.0,
+1113.0,C136,Blender,,3.0,90.0,2025-03-20
+1114.0,C145,,Electronics,4.0,800.0,2025-01-22
+,C187,Coffee Maker,Home,2.0,70.0,2025-04-19
+,C119,,Electronics,2.0,600.0,2024-12-09
+1117.0,C158,Smartphone,,,600.0,
+,C109,Coffee Maker,Home,2.0,70.0,2024-12-11
+,C008,Headphones,Electronics,1.0,50.0,2024-10-13
+1120.0,C030,Laptop,Electronics,4.0,800.0,2025-06-21
+1121.0,C111,Laptop,Electronics,1.0,800.0,
+1122.0,C061,Coffee Maker,Home,,70.0,2024-12-24
+,,Laptop,Electronics,,800.0,2025-06-24
+,C017,Desk Lamp,,2.0,30.0,2025-09-22
+,C099,Smartwatch,Electronics,,200.0,2025-03-20
+1126.0,C024,,Electronics,,,2024-11-16
+1127.0,,Coffee Maker,Home,4.0,70.0,2025-07-16
+1128.0,,Desk Lamp,Furniture,,30.0,2024-11-06
+1129.0,C161,Coffee Maker,Home,4.0,70.0,2025-01-24
+1130.0,C018,Smartwatch,,,200.0,2025-09-19
+1131.0,C054,Bookshelf,Furniture,3.0,150.0,
+1132.0,C104,Table,Furniture,2.0,250.0,2025-09-05
+1133.0,C032,Smartphone,Electronics,3.0,600.0,2025-02-13
+1134.0,C194,Bookshelf,Furniture,2.0,150.0,2025-05-02
+1135.0,C017,Table,Furniture,1.0,250.0,
+1136.0,C137,Smartphone,Electronics,,,2024-11-15
+,C039,Bookshelf,Furniture,3.0,150.0,2025-09-27
+,C026,Coffee Maker,Home,2.0,70.0,2024-10-09
+1139.0,C153,Table,Furniture,1.0,,2025-06-02
+1140.0,C060,Bookshelf,Furniture,,,2024-10-22
+1141.0,C057,Office Chair,Furniture,1.0,,
+1142.0,C020,Laptop,Electronics,4.0,,2025-04-14
+,C144,Coffee Maker,Home,3.0,70.0,2025-08-19
+1144.0,C143,Headphones,Electronics,2.0,50.0,2025-03-21
+1145.0,C032,,Home,3.0,90.0,2025-04-26
+,C086,Coffee Maker,Home,1.0,70.0,2025-08-23
+,C186,,Electronics,2.0,600.0,2025-08-26
+1148.0,C058,Smartphone,Electronics,1.0,600.0,2025-06-15
+1149.0,C180,Bookshelf,Furniture,2.0,150.0,2025-04-22
+1150.0,C015,Smartphone,Electronics,3.0,600.0,2025-09-16
+1151.0,C188,Desk Lamp,Furniture,1.0,30.0,2025-04-20
+,C008,Desk Lamp,Furniture,4.0,30.0,2025-02-20
+1153.0,C108,,,3.0,,
+1154.0,C196,Smartphone,Electronics,,600.0,2025-01-17
+,C116,Coffee Maker,,,70.0,2025-05-11
+1156.0,C168,Office Chair,Furniture,,120.0,2024-10-29
+1157.0,C013,Headphones,Electronics,4.0,50.0,2025-01-08
+1158.0,C106,Coffee Maker,Home,1.0,,2025-07-28
+1159.0,C120,Coffee Maker,Home,4.0,,2025-01-15
+1160.0,,Blender,Home,,90.0,2025-03-22
+1161.0,C117,Blender,,,90.0,
+1162.0,C137,,,1.0,,2024-11-27
+1163.0,,,Furniture,1.0,150.0,2025-07-08
+,,Smartphone,,4.0,600.0,2024-12-18
+1165.0,C089,Table,Furniture,1.0,250.0,2025-01-22
+1166.0,C117,Laptop,Electronics,4.0,800.0,2025-07-15
+1167.0,C189,Blender,Home,,90.0,2025-02-28
+1168.0,C191,Desk Lamp,Furniture,2.0,30.0,2024-11-11
+1169.0,C093,Blender,Home,,90.0,2025-03-30
+1170.0,C076,Bookshelf,Furniture,4.0,150.0,2025-07-06
+1171.0,,Desk Lamp,Furniture,2.0,30.0,2025-05-17
+1172.0,C185,Desk Lamp,Furniture,3.0,,2025-04-23
+1173.0,C094,Office Chair,,,120.0,2024-10-09
+1174.0,C144,Bookshelf,Furniture,,150.0,2024-10-26
+1175.0,C176,Desk Lamp,Furniture,3.0,,2024-10-29
+1176.0,C100,Laptop,,2.0,800.0,
+1177.0,C101,Blender,Home,,,2025-06-06
+1178.0,C010,Smartphone,Electronics,1.0,,2025-04-08
+1179.0,C100,Headphones,Electronics,4.0,50.0,2025-01-14
+1180.0,C138,Bookshelf,Furniture,3.0,150.0,2025-06-22
+1181.0,C186,Laptop,Electronics,,800.0,
+,C069,Office Chair,,,,2024-11-22
+1183.0,C024,Blender,,,90.0,2025-09-08
+1184.0,C128,Office Chair,Furniture,4.0,120.0,2024-11-15
+1185.0,C140,Headphones,Electronics,3.0,50.0,2025-03-19
+1186.0,C124,Laptop,Electronics,1.0,800.0,2025-09-21
+,C189,,Home,,70.0,
+1188.0,C101,Coffee Maker,Home,1.0,70.0,2025-06-16
+1189.0,C161,,,2.0,250.0,2024-10-30
+1190.0,C043,,,1.0,50.0,2024-11-06
+1191.0,C035,Blender,Home,1.0,90.0,2025-05-13
+1192.0,C090,Table,Furniture,1.0,250.0,
+1193.0,,,Furniture,2.0,150.0,2025-04-18
+1194.0,C162,,Home,1.0,70.0,2025-03-02
+,C135,,,2.0,120.0,2025-01-31
+1196.0,C114,Table,Furniture,4.0,250.0,2025-07-31
+1197.0,,Smartwatch,Electronics,,,2025-03-24
+1198.0,C138,Desk Lamp,Furniture,1.0,,2025-01-03
+1199.0,C152,Coffee Maker,Home,1.0,70.0,2025-01-04
+1200.0,,Office Chair,Furniture,,,
+1201.0,C096,,,3.0,250.0,2025-04-20
+,C190,,Furniture,4.0,30.0,2025-09-19
+1203.0,C113,Blender,Home,,90.0,
+1204.0,C023,Smartwatch,Electronics,,200.0,
+1205.0,C105,Laptop,Electronics,1.0,800.0,2025-08-01
+,C062,Office Chair,Furniture,4.0,120.0,2025-09-24
+1207.0,C086,Coffee Maker,Home,1.0,70.0,2024-11-18
+1208.0,C100,Smartwatch,Electronics,,200.0,2024-11-18
+,C076,Smartwatch,Electronics,3.0,,
+1210.0,C028,,Furniture,3.0,120.0,
+1211.0,C111,Desk Lamp,Furniture,1.0,30.0,2025-05-02
+1212.0,C099,,Electronics,4.0,200.0,
+1213.0,C123,Desk Lamp,Furniture,,,
+1214.0,,Blender,Home,4.0,90.0,2025-06-17
+1215.0,C057,,Home,1.0,90.0,2024-11-28
+1216.0,C181,Bookshelf,Furniture,2.0,150.0,2024-12-21
+1217.0,C167,,Furniture,,150.0,2025-08-17
+,C163,Blender,Home,1.0,90.0,2025-04-27
+,C075,Headphones,,,50.0,2024-10-14
+1220.0,,Smartwatch,Electronics,2.0,200.0,2025-01-03
+1221.0,C186,Laptop,,1.0,800.0,2025-09-13
+1222.0,C007,,Furniture,2.0,250.0,2025-06-16
+1223.0,C137,Headphones,Electronics,3.0,50.0,2025-09-02
+1224.0,C122,Headphones,Electronics,1.0,50.0,2024-10-17
+1225.0,C029,Desk Lamp,,2.0,30.0,2025-07-20
+,C083,Table,Furniture,,,2025-08-22
+,C109,,Electronics,2.0,800.0,2024-12-08
+1228.0,C145,Blender,Home,1.0,90.0,2024-12-16
+1229.0,C045,Office Chair,Furniture,4.0,120.0,2025-01-01
+1230.0,C070,Coffee Maker,Home,1.0,,2025-09-15
+1231.0,,Smartphone,Electronics,3.0,600.0,2025-02-10
+1232.0,,Bookshelf,Furniture,2.0,,2025-07-25
+1233.0,C019,Blender,Home,,90.0,2024-11-07
+1234.0,,Headphones,Electronics,4.0,50.0,
+1235.0,C126,Bookshelf,Furniture,4.0,150.0,2024-10-17
+1236.0,C200,Smartwatch,Electronics,3.0,200.0,2025-05-13
+1237.0,C001,Coffee Maker,,1.0,70.0,2024-11-26
+1238.0,C092,Smartwatch,Electronics,3.0,200.0,2025-02-10
+1239.0,C113,Smartwatch,Electronics,4.0,,2025-01-03
+1240.0,C161,Smartphone,Electronics,1.0,,2025-04-25
+1241.0,C134,Bookshelf,Furniture,4.0,150.0,2025-07-28
+1242.0,C173,Desk Lamp,,4.0,30.0,2025-09-16
+1243.0,C118,Desk Lamp,Furniture,3.0,30.0,2024-11-24
+1244.0,,Coffee Maker,Home,3.0,70.0,2025-05-15
+,C020,Smartwatch,Electronics,2.0,200.0,2025-02-04
+1246.0,C047,Smartwatch,Electronics,1.0,200.0,
+1247.0,C014,Laptop,Electronics,1.0,800.0,
+1248.0,C054,Smartphone,Electronics,3.0,600.0,2025-09-27
+,C144,Blender,Home,,90.0,2025-01-21
+,C012,Bookshelf,Furniture,4.0,150.0,2025-08-11
+1251.0,C016,Table,Furniture,2.0,250.0,2025-07-03
+1252.0,C152,Desk Lamp,Furniture,4.0,30.0,2025-01-20
+1253.0,C122,Office Chair,,,120.0,2025-07-05
+1254.0,C136,Bookshelf,Furniture,,150.0,2025-07-01
+1255.0,C178,Desk Lamp,Furniture,1.0,30.0,2024-12-21
+1256.0,C192,Smartphone,Electronics,,600.0,2024-12-05
+1257.0,,Smartwatch,Electronics,1.0,200.0,2025-07-16
+1258.0,C157,Coffee Maker,,1.0,70.0,2025-09-13
+1259.0,,Headphones,Electronics,,,
+,C197,Smartwatch,Electronics,2.0,200.0,2025-06-29
+1261.0,,Table,Furniture,2.0,250.0,
+1262.0,C109,Desk Lamp,Furniture,3.0,30.0,2025-04-28
+1263.0,C033,,Electronics,1.0,600.0,2024-12-02
+,C146,Laptop,Electronics,,800.0,
+1265.0,C085,Bookshelf,,3.0,150.0,2025-02-15
+1266.0,,Laptop,Electronics,1.0,800.0,2025-08-30
+,,,,,50.0,2025-04-06
+1268.0,C099,,Electronics,1.0,800.0,2025-09-14
+,,Smartphone,Electronics,4.0,600.0,2025-07-12
+1270.0,C197,Desk Lamp,Furniture,2.0,30.0,2025-05-18
+1271.0,C003,Desk Lamp,,3.0,30.0,2025-06-04
+1272.0,,Desk Lamp,,2.0,,2025-04-09
+1273.0,C083,Laptop,Electronics,1.0,800.0,2025-09-12
+,C078,Smartwatch,Electronics,2.0,200.0,2025-02-11
+1275.0,C001,Coffee Maker,Home,1.0,70.0,
+,C004,,Electronics,1.0,800.0,2025-05-27
+,C032,Headphones,Electronics,4.0,50.0,2025-06-06
+1278.0,C095,Table,Furniture,3.0,,2025-07-08
+1279.0,,Bookshelf,Furniture,2.0,150.0,2025-04-16
+1280.0,,Smartphone,Electronics,3.0,600.0,
+1281.0,C123,Headphones,Electronics,4.0,50.0,2024-12-07
+1282.0,C193,Smartphone,,,600.0,2025-02-12
+,C133,Smartwatch,Electronics,1.0,200.0,
+1284.0,C112,Blender,Home,3.0,90.0,2024-11-07
+1285.0,,,Electronics,3.0,50.0,2025-07-07
+1286.0,C179,Blender,Home,2.0,90.0,
+1287.0,C192,Headphones,Electronics,2.0,50.0,2025-04-10
+1288.0,,,Electronics,2.0,50.0,2025-01-16
+,,Coffee Maker,Home,3.0,70.0,
+1290.0,C052,,Electronics,2.0,200.0,2025-05-27
+,C079,Blender,Home,2.0,90.0,2024-12-23
+1292.0,C051,Laptop,Electronics,1.0,800.0,2025-07-23
+1293.0,C029,,Furniture,2.0,,2025-07-24
+,C184,Laptop,Electronics,2.0,,2025-01-28
+1295.0,C017,Office Chair,Furniture,4.0,,2025-03-11
+1296.0,C069,,Electronics,2.0,50.0,2025-07-29
+1297.0,C053,Headphones,Electronics,1.0,50.0,2025-02-21
+1298.0,C126,Coffee Maker,Home,3.0,70.0,2025-02-04
+1299.0,C151,Blender,Home,4.0,,2025-04-21
+1300.0,C095,,Electronics,,600.0,2025-03-29
+,C008,Office Chair,Furniture,,,2025-05-26
+1302.0,,Table,,1.0,250.0,2025-03-16
+1303.0,C195,Coffee Maker,Home,,70.0,
+1304.0,,Headphones,Electronics,1.0,50.0,
+1305.0,C122,Coffee Maker,Home,3.0,70.0,2025-04-02
+1306.0,C021,,Furniture,2.0,,2024-12-23
+1307.0,C092,Bookshelf,Furniture,1.0,150.0,2025-03-28
+1308.0,C022,Desk Lamp,Furniture,2.0,30.0,2024-10-14
+1309.0,C001,Desk Lamp,Furniture,1.0,30.0,2025-05-07
+1310.0,,Bookshelf,Furniture,2.0,150.0,2025-04-02
+1311.0,C034,Laptop,Electronics,2.0,800.0,2025-04-17
+1312.0,,Smartwatch,,,200.0,2025-02-15
+,C047,Smartwatch,,,200.0,2025-06-27
+1314.0,C056,Laptop,Electronics,2.0,800.0,2025-07-25
+1315.0,C036,Laptop,Electronics,4.0,800.0,2025-04-04
+1316.0,C113,Coffee Maker,Home,1.0,70.0,2025-08-15
+1317.0,C180,Table,,2.0,250.0,2024-10-27
+1318.0,C014,Bookshelf,,4.0,150.0,2025-03-08
+1319.0,C078,,,2.0,250.0,2024-11-18
+1320.0,C109,Bookshelf,Furniture,2.0,150.0,
+1321.0,C187,,Furniture,3.0,250.0,2025-08-29
+1322.0,,Coffee Maker,Home,3.0,70.0,2025-02-02
+,,Headphones,Electronics,2.0,50.0,2025-03-20
+,C038,,Home,,70.0,2025-05-19
+1325.0,C015,Smartwatch,Electronics,3.0,200.0,2024-12-11
+1326.0,,,Furniture,3.0,,2025-01-12
+1327.0,C185,Laptop,Electronics,3.0,800.0,2025-01-05
+1328.0,C086,,Furniture,2.0,150.0,2025-04-05
+1329.0,C044,Smartwatch,Electronics,1.0,200.0,2025-01-27
+1330.0,C013,Office Chair,Furniture,1.0,120.0,2024-12-17
+,C068,Bookshelf,Furniture,3.0,,
+,C109,Headphones,Electronics,3.0,50.0,2025-07-18
+1333.0,C111,Smartphone,Electronics,2.0,600.0,
+1334.0,C111,Table,Furniture,4.0,250.0,2024-10-22
+1335.0,C113,Coffee Maker,,2.0,70.0,2024-11-08
+1336.0,C169,,Furniture,2.0,30.0,2025-08-12
+,C180,Bookshelf,Furniture,4.0,150.0,2025-05-05
+1338.0,C187,Table,Furniture,3.0,250.0,2024-12-06
+1339.0,C109,Smartphone,Electronics,1.0,600.0,2025-01-17
+1340.0,C121,,Electronics,1.0,,2025-07-23
+1341.0,C150,Desk Lamp,,2.0,30.0,2025-02-13
+1342.0,C070,,Home,,90.0,
+1343.0,C004,Table,,,250.0,
+1344.0,C137,Blender,Home,3.0,90.0,2024-11-24
+1345.0,C031,Table,Furniture,1.0,250.0,2024-11-02
+1346.0,C036,Table,,3.0,250.0,2025-03-03
+,C006,Headphones,Electronics,4.0,50.0,2024-11-03
+1348.0,C075,Office Chair,Furniture,,120.0,
+1349.0,C134,,Electronics,1.0,,2025-08-23
+1350.0,C094,Table,Furniture,2.0,250.0,2024-12-08
+1351.0,C179,Smartwatch,Electronics,2.0,200.0,2025-05-23
+1352.0,C079,Table,Furniture,2.0,,2025-05-17
+,C179,,Furniture,,30.0,
+1354.0,C154,Smartphone,Electronics,4.0,,2025-02-03
+,C019,Office Chair,Furniture,1.0,120.0,2025-03-04
+1356.0,C020,Laptop,,4.0,800.0,2025-06-16
+,C047,Laptop,Electronics,2.0,,
+1358.0,C142,Smartphone,Electronics,1.0,,2024-11-07
+1359.0,C126,Office Chair,,1.0,120.0,2024-12-29
+1360.0,,Laptop,Electronics,2.0,800.0,2025-07-29
+1361.0,,Table,Furniture,2.0,250.0,2025-02-05
+1362.0,,Blender,,2.0,90.0,2024-12-01
+1363.0,C172,,Electronics,1.0,,2024-11-01
+1364.0,C168,Headphones,Electronics,,50.0,
+,C065,Desk Lamp,Furniture,1.0,30.0,2025-07-25
+1366.0,C017,Smartwatch,Electronics,3.0,200.0,2025-06-24
+1367.0,C143,Table,Furniture,2.0,250.0,2025-05-02
+,C163,Laptop,Electronics,1.0,800.0,2024-11-20
+1369.0,C062,Headphones,,2.0,50.0,2024-11-23
+1370.0,C117,,Furniture,3.0,250.0,2025-07-25
+1371.0,C137,Headphones,Electronics,4.0,,2025-09-22
+1372.0,C035,Laptop,Electronics,4.0,800.0,2025-06-20
+1373.0,C064,Smartphone,Electronics,4.0,600.0,2025-08-23
+1374.0,C064,,Furniture,,250.0,
+1375.0,C105,Desk Lamp,,2.0,,2024-11-23
+1376.0,C060,Coffee Maker,Home,1.0,70.0,
+1377.0,C165,Desk Lamp,,3.0,30.0,2025-02-26
+1378.0,C123,Bookshelf,Furniture,2.0,,
+1379.0,C132,Smartwatch,Electronics,,,2024-12-06
+1380.0,C042,Smartwatch,,2.0,200.0,2025-07-30
+1381.0,,Table,Furniture,3.0,250.0,
+1382.0,C104,Coffee Maker,Home,,,2024-10-16
+1383.0,C166,,Electronics,,800.0,2025-05-04
+1384.0,C063,,Electronics,1.0,800.0,2025-03-12
+1385.0,,Laptop,Electronics,3.0,800.0,2025-02-08
+1386.0,,Desk Lamp,Furniture,,30.0,2025-03-23
+1387.0,C104,Coffee Maker,,3.0,70.0,2025-01-12
+1388.0,C179,Smartphone,Electronics,2.0,600.0,2024-10-27
+1389.0,C067,Blender,Home,,90.0,2025-09-16
+1390.0,,Bookshelf,Furniture,4.0,150.0,2025-06-04
+,C015,Laptop,Electronics,4.0,800.0,2025-01-08
+1392.0,C155,,Furniture,1.0,120.0,2025-07-15
+1393.0,C038,Smartwatch,Electronics,1.0,200.0,2025-04-07
+,C155,,Home,1.0,90.0,
+1395.0,C196,Smartphone,Electronics,2.0,600.0,2024-11-22
+1396.0,C010,Desk Lamp,,3.0,30.0,2025-06-26
+1397.0,C074,Laptop,Electronics,2.0,800.0,
+1398.0,C038,Office Chair,,,120.0,
+1399.0,C180,Table,,3.0,250.0,
+1400.0,,,Furniture,1.0,,2025-08-02
+1401.0,C157,Office Chair,Furniture,4.0,120.0,2025-06-17
+1402.0,C173,Headphones,Electronics,3.0,,2025-03-21
+1403.0,C095,,Home,3.0,70.0,2025-07-29
+1404.0,C164,,Furniture,2.0,120.0,2024-12-20
+1405.0,C043,Desk Lamp,Furniture,,,2025-06-03
+1406.0,C011,Bookshelf,,4.0,150.0,
+,C038,Smartphone,,4.0,600.0,2025-07-07
+1408.0,C023,Bookshelf,Furniture,2.0,150.0,2025-09-18
+1409.0,C107,Bookshelf,Furniture,1.0,150.0,2025-06-13
+1410.0,C104,Headphones,Electronics,1.0,50.0,2025-09-03
+1411.0,C111,Table,,,250.0,2025-09-09
+1412.0,C171,Office Chair,Furniture,4.0,120.0,2025-05-12
+1413.0,,Desk Lamp,,4.0,30.0,2025-05-12
+1414.0,C037,Table,Furniture,3.0,250.0,2025-04-11
+1415.0,,Laptop,Electronics,4.0,800.0,2024-12-20
+1416.0,C031,,Furniture,1.0,150.0,
+1417.0,C051,Table,Furniture,1.0,250.0,2025-03-26
+1418.0,C011,,Home,1.0,,2025-08-07
+,C046,Desk Lamp,Furniture,1.0,,2025-05-10
+1420.0,C090,Office Chair,Furniture,,120.0,
+1421.0,C057,Laptop,Electronics,3.0,800.0,2024-10-15
+1422.0,C182,Blender,Home,,90.0,2025-03-10
+1423.0,C168,,,3.0,30.0,2025-04-20
+1424.0,C053,Smartwatch,Electronics,2.0,,2024-11-17
+1425.0,C180,,,1.0,200.0,2024-11-17
+1426.0,C154,,Electronics,3.0,,2025-05-09
+1427.0,C063,,Furniture,1.0,120.0,2025-02-25
+1428.0,C090,Smartphone,Electronics,2.0,,2025-07-18
+1429.0,C135,Headphones,Electronics,3.0,50.0,
+1430.0,,,Electronics,4.0,800.0,
+1431.0,C171,,Home,,70.0,2025-01-31
+1432.0,C152,Smartwatch,Electronics,3.0,200.0,2024-11-03
+1433.0,C180,Smartphone,,1.0,,2025-09-02
+1434.0,C088,,,1.0,800.0,2024-11-11
+1435.0,,Smartphone,Electronics,2.0,600.0,2025-07-14
+1436.0,C156,,Electronics,1.0,,2024-12-26
+1437.0,C049,Blender,Home,1.0,,2024-12-26
+1438.0,C084,Smartwatch,Electronics,1.0,200.0,2025-06-02
+1439.0,,Smartphone,Electronics,2.0,600.0,
+,C063,,,1.0,250.0,2025-06-08
+,C071,Laptop,Electronics,4.0,800.0,2025-05-28
+1442.0,C141,Blender,,3.0,,2024-12-14
+1443.0,C123,Table,Furniture,3.0,250.0,
+1444.0,,,Electronics,,800.0,2024-12-26
+1445.0,,Table,Furniture,3.0,250.0,2024-12-12
+,C018,Laptop,Electronics,2.0,800.0,2025-01-09
+1447.0,C115,Headphones,,2.0,50.0,2025-07-23
+1448.0,,Headphones,Electronics,2.0,50.0,2025-03-08
+,,Coffee Maker,Home,,70.0,2025-07-05
+1450.0,,Laptop,Electronics,4.0,800.0,2025-03-09
+1451.0,C157,Blender,Home,3.0,,2024-11-06
+1452.0,C131,Bookshelf,,2.0,150.0,2025-06-02
+,C110,Headphones,Electronics,,50.0,
+1454.0,C087,Blender,,4.0,90.0,2025-03-14
+1455.0,C032,Headphones,Electronics,,50.0,
+1456.0,C093,,Furniture,1.0,250.0,2024-10-31
+1457.0,C057,Blender,Home,3.0,90.0,2025-02-25
+1458.0,C187,Table,Furniture,2.0,250.0,2025-02-21
+1459.0,C067,Coffee Maker,Home,1.0,70.0,
+1460.0,C092,Table,Furniture,2.0,250.0,2025-08-01
+1461.0,C035,Table,Furniture,2.0,250.0,2025-08-17
+1462.0,C032,Table,Furniture,2.0,250.0,2025-04-03
+1463.0,C144,Office Chair,Furniture,4.0,120.0,2025-01-01
+1464.0,C165,Smartphone,,1.0,600.0,2025-01-16
+1465.0,C142,Blender,Home,,90.0,2025-01-12
+,C007,Bookshelf,Furniture,3.0,150.0,2025-04-06
+,C161,Blender,Home,1.0,90.0,2025-10-01
+1468.0,,Coffee Maker,Home,4.0,,2025-02-28
+1469.0,C029,Headphones,Electronics,2.0,50.0,2025-03-12
+1470.0,C129,,Furniture,4.0,30.0,2024-10-07
+,C011,Bookshelf,Furniture,3.0,150.0,2024-11-01
+1472.0,C130,Coffee Maker,Home,3.0,70.0,2025-09-05
+1473.0,C119,Office Chair,Furniture,1.0,,2025-06-24
+1474.0,,Smartphone,Electronics,4.0,600.0,2025-09-03
+,C137,Headphones,,1.0,,
+1476.0,C172,,Home,4.0,70.0,2025-09-09
+1477.0,C086,Table,Furniture,1.0,250.0,2025-06-20
+1478.0,C158,Table,Furniture,3.0,,2024-11-20
+,C128,Laptop,,2.0,800.0,2025-01-10
+1480.0,C115,Laptop,,2.0,800.0,2025-01-12
+,C009,Table,Furniture,2.0,250.0,2024-11-23
+1482.0,C025,Blender,,1.0,,2025-05-16
+1483.0,C022,Office Chair,Furniture,2.0,120.0,
+1484.0,,,Electronics,3.0,50.0,2025-06-01
+1485.0,,,,2.0,600.0,2025-07-25
+1486.0,C128,Desk Lamp,Furniture,,30.0,2024-10-04
+1487.0,C100,,Electronics,2.0,200.0,2025-10-01
+1488.0,C034,Laptop,Electronics,,800.0,2025-04-02
+1489.0,C153,Smartphone,Electronics,2.0,,2024-12-26
+1490.0,C076,Blender,Home,1.0,90.0,2024-10-25
+1491.0,C106,Smartphone,Electronics,1.0,600.0,
+1492.0,C027,Smartwatch,Electronics,3.0,200.0,2025-07-07
+,,Table,,,250.0,2025-08-28
+1494.0,C012,Smartwatch,Electronics,1.0,200.0,2024-12-26
+1495.0,C199,Bookshelf,Furniture,1.0,150.0,2025-05-09
+1496.0,,Bookshelf,Furniture,1.0,150.0,2025-02-24
+1497.0,C190,Bookshelf,Furniture,2.0,150.0,2024-11-04
+,,Headphones,Electronics,4.0,50.0,2025-08-17
+1499.0,C054,Laptop,,,800.0,2025-08-30
+,C181,Office Chair,Furniture,3.0,120.0,2024-10-31
+1501.0,C026,Desk Lamp,Furniture,3.0,30.0,2025-02-17
+1502.0,C040,Office Chair,Furniture,1.0,120.0,2025-06-15
+1503.0,C187,Blender,Home,,90.0,2025-06-13
+1504.0,C054,,,3.0,50.0,
+1505.0,C111,Table,Furniture,,250.0,2025-06-25
+1506.0,C150,Desk Lamp,Furniture,4.0,30.0,
+1507.0,C033,,,4.0,,2025-08-26
+1508.0,C148,,Home,3.0,70.0,2024-12-14
+1509.0,C081,Headphones,Electronics,1.0,50.0,2024-10-23
+1510.0,C154,,Electronics,1.0,50.0,2025-05-06
+1511.0,C073,Smartwatch,Electronics,4.0,200.0,2025-03-22
+1512.0,C017,Laptop,Electronics,1.0,800.0,2024-10-21
+,C061,,Furniture,2.0,250.0,2025-06-17
+1514.0,C025,,Home,3.0,90.0,2024-12-08
+1515.0,C131,Headphones,Electronics,1.0,,
+,C108,Coffee Maker,Home,,,2025-07-09
+1517.0,C102,Headphones,Electronics,4.0,50.0,2025-03-24
+1518.0,C019,Desk Lamp,Furniture,,30.0,2025-06-27
+,C187,Laptop,Electronics,1.0,800.0,
+1520.0,C017,Bookshelf,Furniture,1.0,150.0,2024-12-10
+1521.0,C055,Laptop,Electronics,3.0,800.0,2025-06-25
+1522.0,C012,Table,Furniture,3.0,250.0,2025-05-26
+,C008,Desk Lamp,Furniture,1.0,30.0,
+1524.0,C118,Smartphone,Electronics,4.0,600.0,2025-04-12
+1525.0,C025,Headphones,Electronics,1.0,,2025-04-04
+1526.0,C012,Bookshelf,,1.0,150.0,2024-10-10
+1527.0,C109,Bookshelf,Furniture,3.0,,2024-10-12
+,C032,Bookshelf,Furniture,,,2024-11-08
+1529.0,C199,Laptop,Electronics,3.0,800.0,2025-09-07
+1530.0,C026,Desk Lamp,Furniture,2.0,30.0,2025-07-15
+1531.0,C135,,Furniture,3.0,30.0,2025-09-30
+,,,Home,4.0,70.0,
+1533.0,C072,Headphones,Electronics,3.0,50.0,2024-12-31
+1534.0,C082,,Furniture,3.0,120.0,2024-11-27
+1535.0,C146,,,3.0,150.0,2024-11-28
+1536.0,C017,Table,Furniture,,250.0,2024-12-26
+1537.0,C108,Headphones,Electronics,3.0,50.0,2024-12-16
+1538.0,C037,Table,Furniture,2.0,250.0,2025-06-23
+1539.0,C183,Blender,Home,,90.0,
+1540.0,C039,Table,Furniture,1.0,250.0,2024-12-13
+,C004,Smartphone,Electronics,1.0,,
+,C141,Headphones,Electronics,1.0,50.0,2025-03-02
+1543.0,,Bookshelf,Furniture,4.0,,2024-11-16
+1544.0,C126,Headphones,Electronics,3.0,50.0,2024-10-16
+1545.0,C170,Headphones,Electronics,2.0,,2024-10-20
+1546.0,C013,,Electronics,4.0,,
+1547.0,C096,Coffee Maker,,3.0,70.0,2024-10-20
+,,Office Chair,,1.0,120.0,2025-02-24
+1549.0,C190,Laptop,Electronics,,,2024-10-28
+1550.0,,,,4.0,30.0,2025-09-05
+1551.0,C185,Table,Furniture,4.0,250.0,2025-05-30
+1552.0,C121,,Furniture,2.0,150.0,2025-05-22
+1553.0,C153,,Home,4.0,90.0,
+1554.0,C133,Laptop,Electronics,2.0,800.0,
+1555.0,C177,Coffee Maker,Home,1.0,,2025-03-16
+,C142,Table,Furniture,2.0,250.0,
+,,Headphones,Electronics,,50.0,2025-04-05
+,,Smartwatch,Electronics,,200.0,2024-10-04
+1559.0,,Desk Lamp,Furniture,2.0,30.0,2025-08-03
+1560.0,,Laptop,Electronics,,800.0,2025-03-13
+1561.0,C088,Office Chair,Furniture,4.0,120.0,
+,C187,Bookshelf,,1.0,,
+1563.0,C061,Desk Lamp,Furniture,3.0,30.0,
+1564.0,C124,Smartphone,Electronics,3.0,,2024-12-27
+1565.0,C184,Table,,,250.0,2024-12-26
+1566.0,C062,Headphones,Electronics,,50.0,
+,C199,Office Chair,,4.0,120.0,2024-11-20
+1568.0,C059,Table,Furniture,4.0,250.0,
+1569.0,C093,Smartphone,Electronics,1.0,600.0,2025-03-07
+,,Bookshelf,Furniture,3.0,150.0,
+1571.0,C057,Bookshelf,,1.0,150.0,2025-05-24
+1572.0,,,Furniture,2.0,,
+1573.0,C005,Desk Lamp,Furniture,2.0,30.0,
+1574.0,,Blender,,1.0,90.0,2025-08-17
+1575.0,C009,Coffee Maker,,,70.0,2025-05-24
+1576.0,C122,Laptop,,1.0,800.0,
+1577.0,C123,Bookshelf,Furniture,3.0,150.0,2025-02-10
+1578.0,,,Electronics,2.0,50.0,
+1579.0,C145,Table,Furniture,3.0,250.0,2024-11-04
+1580.0,C160,,,2.0,70.0,2025-07-03
+,C013,Table,,,250.0,
+1582.0,C089,,Electronics,4.0,200.0,2025-08-10
+1583.0,,,Furniture,,30.0,2025-08-30
+1584.0,C011,Smartwatch,Electronics,4.0,200.0,2025-03-10
+1585.0,,Smartwatch,Electronics,3.0,200.0,2025-07-09
+,C153,Headphones,Electronics,4.0,50.0,2024-11-26
+,,,Electronics,3.0,200.0,2025-06-18
+1588.0,C040,Smartwatch,Electronics,1.0,200.0,2025-08-22
+1589.0,C139,Headphones,Electronics,4.0,50.0,2025-03-12
+1590.0,,Smartphone,Electronics,4.0,600.0,2024-10-25
+1591.0,C133,Bookshelf,Furniture,2.0,150.0,2025-08-08
+1592.0,C198,Desk Lamp,Furniture,4.0,,2025-02-27
+,,Desk Lamp,Furniture,1.0,30.0,2025-04-21
+1594.0,C081,Headphones,Electronics,4.0,50.0,2024-11-18
+1595.0,,Coffee Maker,Home,,70.0,
+,C067,Table,Furniture,4.0,250.0,2025-02-19
+,C098,,Furniture,3.0,,2025-04-24
+,C033,Smartphone,Electronics,4.0,600.0,2024-10-03
+1599.0,C147,Table,Furniture,4.0,250.0,2025-04-05
+1600.0,C097,,Electronics,1.0,200.0,2024-12-27
+,,Smartwatch,,1.0,,2025-03-12
+1602.0,C170,Office Chair,Furniture,3.0,120.0,
+,C155,Smartphone,Electronics,4.0,,
+,,Desk Lamp,Furniture,3.0,30.0,2024-12-13
+1605.0,C045,Bookshelf,Furniture,1.0,150.0,2025-06-11
+1606.0,C031,Blender,Home,2.0,90.0,2025-05-03
+1607.0,C138,Desk Lamp,Furniture,2.0,30.0,2025-06-16
+1608.0,C039,Headphones,Electronics,4.0,50.0,2024-12-24
+,C002,,Home,2.0,90.0,2025-03-28
+1610.0,C013,Laptop,Electronics,,,2024-11-02
+,C017,,Furniture,,250.0,
+,,Table,Furniture,1.0,250.0,
+1613.0,C163,Smartphone,Electronics,3.0,600.0,
+1614.0,C158,Blender,Home,2.0,90.0,2025-01-14
+1615.0,C063,Desk Lamp,Furniture,1.0,30.0,2025-02-23
+1616.0,C022,Office Chair,Furniture,4.0,120.0,2025-02-18
+1617.0,,,Furniture,2.0,120.0,2025-02-28
+1618.0,,,,4.0,800.0,2024-11-28
+1619.0,,Laptop,Electronics,2.0,800.0,
+,C118,Laptop,Electronics,2.0,800.0,2024-10-05
+,C120,Headphones,Electronics,,50.0,2025-08-11
+1622.0,C014,Office Chair,Furniture,3.0,120.0,2025-06-23
+1623.0,,Blender,Home,1.0,90.0,2025-04-25
+1624.0,C139,,Electronics,2.0,,2025-01-21
+1625.0,C111,Coffee Maker,,3.0,70.0,2025-04-22
+1626.0,C058,Blender,Home,2.0,90.0,2024-12-15
+1627.0,C174,,Electronics,,50.0,2024-10-14
+1628.0,C004,Laptop,Electronics,,,2025-02-02
+1629.0,C141,Smartwatch,Electronics,3.0,,
+1630.0,C015,Blender,Home,1.0,,2025-04-21
+,C157,,,4.0,120.0,2024-10-05
+,C130,,Furniture,2.0,120.0,2025-03-27
+1633.0,C027,Coffee Maker,,1.0,70.0,2025-07-16
+1634.0,C126,Table,Furniture,4.0,250.0,2025-07-31
+,C021,Desk Lamp,Furniture,3.0,30.0,2025-09-09
+1636.0,C084,,Electronics,,600.0,
+,C185,Desk Lamp,,3.0,30.0,2025-07-17
+1638.0,C001,,,,150.0,2025-02-28
+,C166,Headphones,Electronics,1.0,50.0,
+1640.0,C163,,Electronics,1.0,800.0,2024-12-20
+1641.0,C024,Headphones,Electronics,3.0,50.0,2025-03-04
+1642.0,C027,Table,Furniture,4.0,250.0,2024-11-29
+1643.0,C174,Smartwatch,Electronics,1.0,200.0,2025-03-02
+1644.0,C093,Desk Lamp,,4.0,30.0,2024-11-23
+,C079,Headphones,Electronics,,,2024-10-03
+1646.0,C199,,Home,1.0,70.0,2025-02-05
+,C192,Desk Lamp,Furniture,4.0,,2025-05-20
+,C060,Bookshelf,Furniture,3.0,150.0,2025-02-12
+1649.0,,Smartwatch,Electronics,2.0,200.0,2025-07-10
+,C199,Laptop,Electronics,2.0,,2025-06-17
+1651.0,C084,Office Chair,Furniture,1.0,120.0,2025-04-07
+1652.0,,Smartwatch,Electronics,4.0,200.0,2025-07-20
+1653.0,,,Electronics,2.0,600.0,2025-05-01
+1654.0,,,Electronics,4.0,50.0,
+1655.0,C072,,Electronics,4.0,800.0,2024-12-30
+1656.0,,Headphones,Electronics,2.0,,2025-05-12
+,C064,Headphones,Electronics,2.0,,2025-07-14
+1658.0,,,,,600.0,2025-04-24
+1659.0,C011,Smartwatch,Electronics,1.0,,
+1660.0,,,Electronics,4.0,200.0,2025-03-29
+,C011,Smartphone,Electronics,3.0,600.0,
+1662.0,C088,Smartwatch,Electronics,1.0,200.0,2025-06-23
+1663.0,C076,,Electronics,,,2025-03-13
+1664.0,C160,Smartphone,Electronics,,600.0,2025-01-11
+,C092,,Furniture,,120.0,
+1666.0,C168,Headphones,Electronics,4.0,,2025-07-27
+1667.0,C097,Headphones,Electronics,,,2025-07-21
+1668.0,,Smartwatch,,1.0,200.0,2025-03-08
+,,,Electronics,,800.0,2024-12-25
+1670.0,C116,Bookshelf,Furniture,2.0,150.0,2025-04-11
+1671.0,C103,Headphones,,2.0,50.0,2025-09-06
+1672.0,,,Furniture,2.0,150.0,2025-07-18
+1673.0,C122,Headphones,Electronics,3.0,,
+1674.0,C106,Blender,Home,,90.0,2024-10-31
+1675.0,C049,Table,Furniture,3.0,,
+1676.0,C061,Coffee Maker,Home,3.0,70.0,2025-07-25
+1677.0,C134,,Electronics,2.0,200.0,2025-07-03
+,,Blender,,3.0,90.0,2025-03-24
+1679.0,,Smartwatch,Electronics,2.0,200.0,2025-04-24
+1680.0,C008,,,2.0,250.0,2025-08-30
+1681.0,C092,Office Chair,Furniture,2.0,120.0,2024-12-17
+1682.0,,Blender,Home,3.0,90.0,2025-04-21
+1683.0,C084,,Furniture,2.0,120.0,2025-04-11
+1684.0,C058,,,2.0,600.0,2025-07-13
+1685.0,C127,,Home,3.0,70.0,2024-10-23
+1686.0,C041,Bookshelf,,,150.0,2025-03-21
+1687.0,C012,Blender,,4.0,90.0,2025-07-26
+,C141,,Electronics,1.0,200.0,2025-03-07
+1689.0,C122,Coffee Maker,Home,,70.0,2024-11-10
+,C100,Table,Furniture,1.0,250.0,
+1691.0,C119,Desk Lamp,Furniture,3.0,30.0,
+1692.0,C032,Coffee Maker,Home,4.0,70.0,2025-04-24
+1693.0,C082,Smartphone,Electronics,2.0,600.0,2025-04-07
+,C150,Desk Lamp,Furniture,4.0,,2025-09-10
+1695.0,,Smartwatch,Electronics,3.0,,2025-08-08
+1696.0,C131,Bookshelf,Furniture,3.0,150.0,2025-04-25
+1697.0,,Smartphone,Electronics,3.0,600.0,
+1698.0,C097,Blender,Home,4.0,90.0,2025-06-09
+1699.0,C049,Desk Lamp,Furniture,3.0,30.0,2024-12-10
+1700.0,C186,Table,,,250.0,2024-10-03
+,C037,Office Chair,Furniture,4.0,120.0,2024-10-25
+1702.0,C108,Office Chair,,4.0,,2025-08-23
+1703.0,,,,,50.0,2024-12-31
+1704.0,C179,Smartwatch,Electronics,4.0,200.0,2024-10-04
+1705.0,C117,Headphones,Electronics,4.0,50.0,2025-07-14
+1706.0,C066,Headphones,Electronics,4.0,50.0,2025-01-02
+1707.0,C006,,Home,,,2025-05-22
+1708.0,C115,Bookshelf,Furniture,,150.0,2025-05-11
+1709.0,C125,Coffee Maker,,1.0,,2025-07-04
+1710.0,C018,Table,Furniture,1.0,250.0,2024-10-07
+1711.0,C143,Laptop,Electronics,3.0,800.0,2025-02-14
+1712.0,C026,Table,Furniture,,250.0,
+1713.0,C087,Bookshelf,Furniture,4.0,150.0,2024-12-20
+1714.0,C014,,Electronics,3.0,50.0,2025-05-19
+1715.0,C037,Desk Lamp,Furniture,2.0,,2025-03-14
+1716.0,C041,Smartphone,Electronics,4.0,600.0,2025-09-06
+1717.0,C125,Table,,3.0,250.0,2025-06-17
+1718.0,C084,Headphones,Electronics,3.0,50.0,2025-06-22
+1719.0,C070,Laptop,,3.0,800.0,2025-06-24
+1720.0,C089,Smartwatch,Electronics,4.0,200.0,2024-12-12
+1721.0,,Coffee Maker,Home,1.0,70.0,2025-05-08
+1722.0,C005,Laptop,Electronics,4.0,800.0,2025-03-10
+1723.0,C184,Office Chair,Furniture,1.0,,2025-02-26
+1724.0,C151,,Furniture,3.0,150.0,
+,,Bookshelf,,1.0,,2025-05-25
+1726.0,,Smartwatch,,1.0,200.0,2025-04-11
+,C133,Office Chair,,,120.0,2025-03-30
+1728.0,C171,,Electronics,1.0,800.0,2025-08-11
+1729.0,C064,,Electronics,,600.0,2025-08-10
+,C028,Smartwatch,Electronics,3.0,200.0,2025-02-20
+1731.0,C165,Desk Lamp,Furniture,4.0,30.0,2025-01-30
+,C165,Laptop,Electronics,1.0,800.0,2025-02-06
+1733.0,C120,Table,Furniture,4.0,,2024-10-25
+1734.0,C111,Smartphone,,4.0,600.0,2024-12-21
+1735.0,C189,Office Chair,Furniture,2.0,,2025-03-04
+1736.0,,Headphones,Electronics,,50.0,
+1737.0,C037,Office Chair,Furniture,2.0,120.0,2025-01-04
+1738.0,,Laptop,Electronics,3.0,800.0,2025-02-19
+1739.0,C035,Smartphone,Electronics,1.0,,2025-01-30
+,C059,Desk Lamp,Furniture,1.0,30.0,2025-08-28
+,C179,Bookshelf,Furniture,4.0,150.0,2025-09-18
+,C181,Headphones,Electronics,4.0,50.0,2025-06-09
+1743.0,C043,Headphones,,1.0,50.0,
+1744.0,C050,Smartwatch,Electronics,3.0,200.0,2025-05-06
+1745.0,C184,,Electronics,3.0,50.0,2025-01-21
+1746.0,C172,Smartphone,Electronics,4.0,600.0,2024-12-13
+,C151,Office Chair,Furniture,4.0,120.0,2025-08-27
+1748.0,,Bookshelf,Furniture,4.0,150.0,2025-07-21
+1749.0,C119,Table,Furniture,2.0,250.0,2025-06-11
+1750.0,C085,,Electronics,3.0,800.0,2025-05-25
+1751.0,,Smartphone,Electronics,1.0,600.0,2025-09-29
+1752.0,C086,,Electronics,1.0,50.0,2024-11-25
+1753.0,C055,Blender,Home,2.0,,2025-08-15
+1754.0,C171,Bookshelf,Furniture,,150.0,2024-12-31
+1755.0,C114,Headphones,Electronics,1.0,50.0,2025-03-31
+,,Table,Furniture,3.0,250.0,2024-10-27
+,C113,Table,Furniture,,250.0,2025-01-05
+1758.0,C046,Office Chair,Furniture,1.0,,2025-08-05
+1759.0,C001,,,3.0,70.0,
+1760.0,C142,,,4.0,30.0,2025-02-09
+1761.0,C069,Smartwatch,,2.0,,
+,C190,,Electronics,2.0,,2025-04-07
+1763.0,C192,Smartphone,Electronics,3.0,600.0,
+1764.0,C073,Laptop,Electronics,1.0,800.0,2025-08-20
+1765.0,C089,Smartwatch,Electronics,,200.0,2024-11-20
+1766.0,C077,Smartwatch,Electronics,3.0,,2025-06-24
+1767.0,C068,Headphones,Electronics,1.0,50.0,2025-09-01
+1768.0,C102,Office Chair,Furniture,2.0,120.0,
+1769.0,,Smartphone,Electronics,2.0,600.0,2025-01-23
+1770.0,,Smartwatch,Electronics,3.0,200.0,
+,,Laptop,,4.0,,2025-04-16
+1772.0,C054,Blender,Home,1.0,90.0,2024-11-20
+1773.0,,Laptop,Electronics,4.0,800.0,2024-11-03
+1774.0,C199,Desk Lamp,Furniture,3.0,,2024-11-06
+,,Smartwatch,Electronics,1.0,200.0,
+1776.0,C049,Laptop,Electronics,3.0,,2025-04-10
+1777.0,C172,Smartphone,Electronics,2.0,600.0,2025-09-27
+1778.0,C011,Coffee Maker,,4.0,70.0,
+1779.0,C110,Bookshelf,Furniture,2.0,,2025-03-19
+1780.0,C174,Smartwatch,Electronics,,200.0,2025-06-10
+,C085,Bookshelf,Furniture,4.0,150.0,2025-08-09
+1782.0,C048,Headphones,Electronics,,50.0,2025-05-02
+1783.0,C156,Desk Lamp,Furniture,1.0,30.0,2024-12-25
+1784.0,C154,Smartwatch,Electronics,4.0,200.0,2025-08-08
+1785.0,C133,,Electronics,4.0,50.0,
+1786.0,C037,Office Chair,,,,
+1787.0,C043,Blender,Home,,90.0,2025-09-11
+1788.0,C046,,Electronics,4.0,50.0,2025-03-27
+1789.0,C123,Desk Lamp,Furniture,3.0,30.0,2025-06-25
+1790.0,C107,Blender,Home,4.0,90.0,
+1791.0,C047,Desk Lamp,Furniture,,30.0,2025-08-27
+1792.0,C143,Smartwatch,Electronics,4.0,200.0,
+1793.0,,Office Chair,Furniture,1.0,120.0,2024-11-29
+1794.0,C141,Smartphone,Electronics,3.0,600.0,
+1795.0,C034,Office Chair,Furniture,,,2024-10-19
+1796.0,C117,Office Chair,,2.0,,2024-10-04
+1797.0,C027,,Home,4.0,70.0,2024-11-19
+1798.0,C144,Bookshelf,Furniture,4.0,150.0,2025-09-27
+,C158,Headphones,Electronics,2.0,50.0,2025-04-03
+1800.0,C177,Office Chair,Furniture,2.0,120.0,2024-10-16
+1801.0,C089,,Home,3.0,90.0,2024-11-01
+1802.0,C108,Bookshelf,Furniture,3.0,150.0,2025-10-01
+1803.0,C141,Blender,Home,3.0,90.0,2025-02-08
+1804.0,C056,Laptop,Electronics,2.0,800.0,
+1805.0,C189,,Furniture,,150.0,
+,C036,Office Chair,,4.0,120.0,2025-02-09
+1807.0,C118,Blender,Home,2.0,90.0,2025-08-21
+1808.0,C129,Table,,1.0,250.0,2025-06-23
+1809.0,C106,Blender,Home,2.0,90.0,
+1810.0,C118,Desk Lamp,Furniture,2.0,30.0,2024-11-05
+1811.0,C137,Bookshelf,Furniture,1.0,150.0,2025-07-13
+,C015,Bookshelf,Furniture,,,2025-02-04
+1813.0,,Smartwatch,Electronics,1.0,200.0,2025-06-02
+1814.0,C170,,Furniture,4.0,250.0,2025-03-09
+1815.0,C049,Bookshelf,Furniture,3.0,150.0,2025-01-07
+,C037,Office Chair,Furniture,2.0,,2025-08-06
+1817.0,C152,Coffee Maker,Home,,,2024-10-10
+,,,Home,2.0,90.0,2025-08-25
+1819.0,C089,,Electronics,3.0,50.0,
+1820.0,C164,Bookshelf,,1.0,,2025-06-18
+,,,Electronics,1.0,50.0,2024-10-02
+1822.0,C175,Laptop,Electronics,3.0,800.0,
+,C108,Headphones,Electronics,1.0,50.0,2025-01-06
+1824.0,,Desk Lamp,,1.0,30.0,2025-01-31
+1825.0,C150,Desk Lamp,Furniture,3.0,30.0,2025-01-28
+1826.0,C163,Blender,Home,,90.0,2024-10-20
+,C011,,Furniture,,150.0,2025-02-27
+1828.0,,Smartwatch,Electronics,2.0,200.0,2024-10-04
+1829.0,C153,Headphones,Electronics,4.0,50.0,2025-01-26
+1830.0,C035,,Home,1.0,90.0,2025-06-09
+1831.0,C146,Coffee Maker,Home,2.0,,
+1832.0,,Blender,Home,,,2024-11-14
+1833.0,C024,Coffee Maker,Home,4.0,70.0,2024-10-15
+1834.0,C102,Bookshelf,Furniture,,150.0,2024-10-20
+1835.0,C167,,Furniture,4.0,120.0,2025-06-28
+1836.0,,Office Chair,Furniture,,,
+1837.0,C073,Table,Furniture,1.0,250.0,
+1838.0,C123,Smartphone,Electronics,1.0,600.0,2025-03-31
+1839.0,,Laptop,Electronics,4.0,,
+,C130,Desk Lamp,Furniture,4.0,30.0,2024-11-22
+1841.0,,Desk Lamp,,4.0,30.0,2025-02-10
+1842.0,,Headphones,Electronics,3.0,50.0,2025-09-18
+1843.0,C044,Bookshelf,Furniture,3.0,150.0,2025-02-05
+1844.0,C086,Smartphone,Electronics,2.0,,2024-12-13
+,C172,Headphones,Electronics,2.0,50.0,2025-01-27
+,C035,Headphones,Electronics,,50.0,2025-01-25
+,C030,Office Chair,Furniture,4.0,120.0,2025-01-31
+1848.0,C150,Bookshelf,Furniture,4.0,150.0,
+1849.0,,Smartwatch,,3.0,,
+1850.0,C106,Smartwatch,Electronics,3.0,200.0,2025-02-27
+1851.0,,Laptop,Electronics,4.0,,2025-07-15
+1852.0,C140,Table,,,250.0,
+1853.0,C003,Blender,Home,4.0,,2025-03-22
+1854.0,C115,Table,Furniture,,250.0,2025-04-04
+1855.0,C005,Office Chair,Furniture,4.0,,
+1856.0,,Laptop,Electronics,1.0,800.0,2025-07-05
+1857.0,C030,Desk Lamp,Furniture,4.0,30.0,2024-10-17
+,C198,Smartphone,,2.0,600.0,2025-05-16
+1859.0,C200,Blender,Home,4.0,90.0,2024-11-06
+1860.0,C161,Desk Lamp,Furniture,,30.0,2025-04-03
+,C038,Office Chair,Furniture,,120.0,2025-01-21
+1862.0,C142,Office Chair,Furniture,1.0,120.0,2025-09-05
+1863.0,C151,Headphones,Electronics,,,2024-10-20
+1864.0,C066,Smartwatch,Electronics,1.0,200.0,
+1865.0,,Smartwatch,Electronics,,200.0,2024-11-16
+,,Coffee Maker,Home,4.0,70.0,2025-07-26
+1867.0,C190,Blender,Home,2.0,,2025-02-27
+,C196,Headphones,Electronics,3.0,,2024-10-11
+1869.0,C006,Coffee Maker,Home,2.0,70.0,2025-01-05
+1870.0,C171,Smartphone,,4.0,600.0,
+1871.0,C101,Office Chair,Furniture,2.0,120.0,2025-01-22
+,C012,Laptop,Electronics,,,2024-12-01
+1873.0,C166,Headphones,Electronics,1.0,50.0,2025-08-29
+1874.0,,Table,Furniture,,250.0,2025-09-18
+1875.0,C158,Smartphone,Electronics,,600.0,
+,C080,,Home,,90.0,2025-07-12
+1877.0,,Smartwatch,,,200.0,2024-10-08
+1878.0,C149,Coffee Maker,Home,2.0,70.0,2025-03-08
+1879.0,C091,Headphones,,3.0,50.0,2024-10-16
+1880.0,,,,4.0,,
+1881.0,C010,Smartwatch,,2.0,200.0,2024-12-01
+1882.0,,Smartphone,Electronics,1.0,600.0,2025-01-28
+1883.0,C164,Laptop,Electronics,2.0,800.0,
+1884.0,C080,Smartphone,Electronics,2.0,600.0,2024-11-11
+1885.0,C125,,Furniture,3.0,120.0,2025-08-10
+1886.0,C169,,Electronics,,600.0,2025-04-11
+1887.0,C141,,Furniture,,30.0,
+1888.0,C136,Desk Lamp,Furniture,2.0,30.0,
+1889.0,C196,Smartwatch,Electronics,3.0,200.0,2025-04-07
+1890.0,C068,Office Chair,Furniture,2.0,120.0,2024-12-20
+1891.0,C060,Smartphone,Electronics,,600.0,2025-09-13
+1892.0,C093,Headphones,Electronics,4.0,50.0,
+1893.0,,Coffee Maker,Home,3.0,70.0,2024-12-02
+1894.0,C005,Coffee Maker,Home,2.0,,2025-07-18
+,C010,Smartwatch,Electronics,,200.0,2025-07-11
+1896.0,C126,Headphones,Electronics,1.0,50.0,2025-01-11
+1897.0,C159,Table,Furniture,3.0,250.0,2025-07-24
+,,Smartwatch,,3.0,200.0,2025-04-28
+1899.0,,Smartwatch,Electronics,4.0,200.0,2025-03-28
+1900.0,C190,Coffee Maker,,3.0,70.0,2024-11-19
+1901.0,C080,Laptop,Electronics,4.0,800.0,2024-10-04
+,C004,Blender,Home,4.0,90.0,
+1903.0,,Desk Lamp,Furniture,3.0,30.0,2025-06-08
+1904.0,C124,,Furniture,1.0,120.0,
+1905.0,,Office Chair,,,,2025-02-16
+1906.0,C166,Blender,,2.0,,2024-12-15
+1907.0,,Desk Lamp,Furniture,4.0,30.0,2024-11-10
+1908.0,C191,,Home,,70.0,2024-12-08
+,C155,Smartphone,Electronics,,600.0,2025-09-01
+1910.0,C199,,,,,2025-03-29
+1911.0,,Desk Lamp,Furniture,2.0,30.0,2025-06-22
+,C183,,Electronics,2.0,50.0,
+,C149,Smartphone,Electronics,2.0,600.0,2025-03-12
+,C079,Desk Lamp,,2.0,,2025-02-11
+1915.0,,Table,Furniture,3.0,250.0,2025-02-13
+1916.0,C133,,Electronics,1.0,,2025-03-11
+1917.0,C181,Headphones,Electronics,1.0,50.0,2025-02-17
+1918.0,C173,Office Chair,Furniture,1.0,120.0,2025-04-15
+,C188,Desk Lamp,,4.0,30.0,2025-03-26
+1920.0,,Desk Lamp,Furniture,2.0,,2025-06-03
+1921.0,,Headphones,Electronics,4.0,50.0,2025-02-28
+1922.0,C112,,Electronics,,50.0,2024-10-13
+1923.0,C180,,Electronics,2.0,600.0,2025-08-02
+1924.0,C021,Bookshelf,Furniture,,150.0,2025-06-23
+,C113,Smartwatch,Electronics,,200.0,2024-12-01
+1926.0,,Table,,1.0,250.0,2025-02-22
+1927.0,,Laptop,Electronics,2.0,800.0,2025-07-17
+,,,,,800.0,
+1929.0,,Table,,1.0,250.0,2025-09-29
+1930.0,C028,,,2.0,90.0,2025-03-21
+1931.0,C008,Smartphone,Electronics,4.0,600.0,2025-02-23
+,C177,,Electronics,4.0,,2025-08-27
+,C087,Table,Furniture,1.0,250.0,2025-07-09
+,C069,,Electronics,3.0,800.0,2025-04-25
+1935.0,C101,,,1.0,250.0,
+1936.0,,,Electronics,,200.0,2025-06-12
+1937.0,,Laptop,Electronics,1.0,800.0,2025-04-13
+1938.0,C179,Table,Furniture,3.0,250.0,2025-07-11
+1939.0,,,Electronics,1.0,800.0,2024-11-30
+1940.0,C148,Desk Lamp,Furniture,,,
+1941.0,C058,Office Chair,,,,2024-11-05
+,C180,Coffee Maker,Home,,70.0,
+1943.0,C028,Coffee Maker,,,70.0,2025-09-24
+1944.0,C186,Desk Lamp,Furniture,1.0,,2025-05-11
+1945.0,C094,Smartphone,Electronics,4.0,600.0,2024-12-19
+,C008,,Furniture,,150.0,2025-01-20
+1947.0,C111,Laptop,Electronics,3.0,800.0,2025-05-02
+,C136,Table,Furniture,,250.0,
+1949.0,C073,Headphones,Electronics,3.0,50.0,2025-07-21
+1950.0,C178,Coffee Maker,,,70.0,
+1951.0,C036,Office Chair,Furniture,2.0,120.0,2025-02-20
+1952.0,C105,Smartwatch,,1.0,200.0,2025-08-29
+1953.0,C122,Blender,Home,2.0,,2025-03-09
+1954.0,C114,Bookshelf,Furniture,,150.0,2025-06-15
+1955.0,C164,Table,Furniture,2.0,,2025-06-27
+1956.0,C118,,Furniture,4.0,30.0,2025-04-25
+1957.0,C095,Headphones,Electronics,,50.0,2025-07-05
+1958.0,,,Electronics,4.0,800.0,2025-01-14
+1959.0,C146,,Home,1.0,90.0,2025-09-23
+1960.0,C153,Table,Furniture,3.0,250.0,2024-11-30
+1961.0,C078,Bookshelf,Furniture,1.0,,2025-02-01
+1962.0,C114,Smartphone,Electronics,4.0,600.0,
+1963.0,C158,Office Chair,Furniture,1.0,120.0,2024-11-02
+1964.0,C172,Coffee Maker,Home,2.0,70.0,2025-03-19
+1965.0,C113,,Furniture,1.0,250.0,2025-09-01
+1966.0,C122,Blender,Home,3.0,90.0,2025-06-24
+1967.0,C012,Smartwatch,,3.0,,2025-07-11
+1968.0,C018,Desk Lamp,Furniture,1.0,30.0,2024-12-28
+1969.0,C149,Table,Furniture,2.0,250.0,2025-02-21
+1970.0,C104,Blender,Home,,90.0,2025-08-12
+1971.0,C086,Smartphone,,3.0,600.0,2025-08-05
+1972.0,,Smartphone,,4.0,600.0,
+1973.0,C029,Headphones,,,,2024-10-09
+1974.0,C029,Desk Lamp,Furniture,3.0,30.0,
+1975.0,,Headphones,Electronics,3.0,50.0,2024-10-09
+1976.0,C151,Table,,,250.0,2025-07-18
+1977.0,C022,Desk Lamp,Furniture,1.0,30.0,
+1978.0,C097,Table,Furniture,3.0,250.0,2025-08-09
+1979.0,,Smartphone,Electronics,,600.0,2024-11-14
+1980.0,C023,Blender,Home,,90.0,2025-01-15
+1981.0,,Smartwatch,Electronics,4.0,200.0,2025-06-12
+1982.0,C111,Table,Furniture,2.0,250.0,2024-11-15
+,C186,Table,Furniture,1.0,,2025-05-25
+1984.0,C108,,Furniture,3.0,30.0,2025-03-06
+1985.0,,,Furniture,4.0,120.0,2025-02-09
+,,,Furniture,2.0,150.0,2024-10-08
+,C010,Desk Lamp,Furniture,4.0,,
+1988.0,C046,Blender,Home,3.0,90.0,2025-06-18
+1989.0,,,Electronics,1.0,50.0,2025-07-25
+,C112,Smartwatch,,4.0,200.0,2024-11-25
+1991.0,C164,Smartphone,Electronics,,600.0,2024-10-26
+1992.0,C090,Bookshelf,Furniture,2.0,150.0,2025-10-02
+1993.0,C012,Laptop,Electronics,2.0,800.0,2025-07-29
+1994.0,C014,Smartwatch,Electronics,2.0,200.0,2024-12-19
+1995.0,,Smartwatch,Electronics,4.0,200.0,
+1996.0,C075,Coffee Maker,Home,3.0,70.0,2024-10-26
+,,Table,Furniture,3.0,250.0,2024-10-30
+1998.0,C101,,Furniture,4.0,150.0,2025-07-16
+1999.0,C111,Office Chair,Furniture,,120.0,2024-11-07
